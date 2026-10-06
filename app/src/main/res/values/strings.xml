@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App 2-o</string>
+    <string name="txt_bienvenido">Bienvenido</string>
+    <string name="txt_btnA">Botón A</string>
+    <string name="txt_btnB">Botón B</string>
+    <string name="txt_btnC">Botón C</string>
+    <string name="txt_btnD">Botón D</string>
+</resources>
