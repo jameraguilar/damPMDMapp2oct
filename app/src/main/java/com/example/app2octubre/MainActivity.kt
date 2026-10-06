@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var btnC : Button
     private lateinit var ivFoto : ImageView
     private lateinit var etLogin : EditText
-
+    private lateinit var nombre:String
     override fun onCreate(savedInstanceState: Bundle?) {
 
         super.onCreate(savedInstanceState)
